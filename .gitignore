@@ -2,3 +2,5 @@ venv
 .env
 app.log
 __pycache__
+test2.py
+p.py
